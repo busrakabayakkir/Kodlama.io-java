@@ -19,7 +19,6 @@ public class Main {
                }
            }
        }
-
        if (kontrol==true)
        {
            System.out.println("Sayi asal");
@@ -71,4 +70,4 @@ public class Main {
     }
 }
 
----
+-----
